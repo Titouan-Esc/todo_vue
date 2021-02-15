@@ -1,5 +1,90 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+<main>
+  <nav>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </nav>
+  <div class="container">
+    <img src="" alt="">
+    <h1>Market Place</h1>
+    <p>Buy something</p>
+    <div class="lot_of_food">
+      <div class="food">
+        <img src="" alt="">
+        <div class="description_food">
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+      <div class="food">
+        <img src="" alt="">
+        <div class="description_food">
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+      <div class="food">
+        <img src="" alt="">
+        <div class="description_food">
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+      <div class="food">
+        <img src="" alt="">
+        <div class="description_food">
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+      <div class="food">
+        <img src="" alt="">
+        <div class="description_food">
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+      <div class="food">
+        <img src="" alt="">
+        <div class="description_food">
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+      <div class="food">
+        <img src="" alt="">
+        <div class="description_food">
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+      <div class="food">
+        <img src="" alt="">
+        <div class="description_food">
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+      <div class="food">
+        <img src="" alt="">
+        <div class="description_food">
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+      <div class="food">
+        <img src="" alt="">
+        <div class="description_food">
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
 </template>
 
 <script>
@@ -12,12 +97,10 @@ export default {
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
 }
 </style>
